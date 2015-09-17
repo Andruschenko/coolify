@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'test-unit'
-gem 'minitest'
+#gem 'minitest'
 
 # Specify your gem's dependencies in coolify.gemspec
 gemspec
